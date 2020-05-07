@@ -1,0 +1,93 @@
+Statistics Response:
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/9v7302Ry1WlM1ZLiSdy21gsYT4E\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/M1PEQm3UDh4YDVwEqF1mbEQqfcQ\"",
+   "id": "zXHuvCA-uu4",
+   "statistics": {
+    "viewCount": "65309",
+    "likeCount": "1313",
+    "dislikeCount": "67",
+    "favoriteCount": "0",
+    "commentCount": "241"
+   }
+  }
+ ]
+}
+
+
+Snippet Response:
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/rHj_7UHLROJbU2eq9gcfl6evxOY\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/EjxF6XKWJXOnO649NObcAj8sGjs\"",
+   "id": "zXHuvCA-uu4",
+   "snippet": {
+    "publishedAt": "2017-07-23T12:46:34.000Z",
+    "channelId": "UCx_zScEoMSS969ywBPLVdbA",
+    "title": "How to hack wpa/wpa2 wifi password in kali linux in hindi ( Fluxion method, Best Way) True Tech Guru",
+    "description": "Best and less time consuming way, made only for Educational Purpose in hindi.....(^_^)\n#TTG",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/zXHuvCA-uu4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/zXHuvCA-uu4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/zXHuvCA-uu4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/zXHuvCA-uu4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/zXHuvCA-uu4/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "True Tech Guru",
+    "tags": [
+     "True tech guru",
+     "How to hack wpa/wpa2 wifi password in kali linux in hindi",
+     "Fluxion method",
+     "hack wifi in kali linux",
+     "best way to hack wifi in kali linux",
+     "TTG",
+     "true way to hack wifi",
+     "how to hack wpa/wpa2 wifi password using kali linux in hindi",
+     "#TTG"
+    ],
+    "categoryId": "28",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "How to hack wpa/wpa2 wifi password in kali linux in hindi ( Fluxion method, Best Way) True Tech Guru",
+     "description": "Best and less time consuming way, made only for Educational Purpose in hindi.....(^_^)\n#TTG"
+    },
+    "defaultAudioLanguage": "en-GB"
+   }
+  }
+ ]
+}
